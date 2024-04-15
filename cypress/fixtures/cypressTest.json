@@ -1,0 +1,10 @@
+{
+    "main_url":"https://dev.profteam.su/",
+    "login_url":"https://dev.profteam.su/login",
+    "login":"testerStudent",
+    "password":"Password1",
+    "login1": "testerEmployer",
+    "login2": "testerAdmin",
+    "login3": "testerInstitution"
+
+}
